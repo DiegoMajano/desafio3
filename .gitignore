@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.rptproj.user
+*.rdl.data
+TestResults/
+.DS_Store
+
+_to_delete/
+postman
